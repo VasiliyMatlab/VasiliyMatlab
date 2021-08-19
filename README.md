@@ -26,8 +26,11 @@ I'm enthusiastic and passionate about what I do
 <a href="https://www.jenkins.io/" target="_blank"> <img src="icons/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=VasiliyMatlab&show_icons=true&count_private=true&theme=solarized-dark&locale=en" alt="Vasiliy" />
 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=VasiliyMatlab&show_icons=true&count_private=true&theme=solarized-dark&locale=en" alt="Vasiliy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasiliyMatlab&layout=compact" alt="Vasily" />
 
 <!---
 VasiliyMatlab/VasiliyMatlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
