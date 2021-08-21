@@ -15,6 +15,7 @@ I'm enthusiastic and passionate about what I do
 
 <a href="https://www.linux.org/" target="_blank"> <img src="icons/linux.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.debian.org/" target="_blank"> <img src="icons/debian.svg" alt="debian" width="40" height="40"/> </a>
+<a href="https://elementary.io/" target="_blank"> <img src="icons/elementaryOS.svg" alt="elementaryOS" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="icons/bash.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank"> <img src="icons/qt.svg" alt="qt" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="icons/vscode.svg" alt="vscode" width="40" height="40"/> </a>
