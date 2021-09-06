@@ -30,7 +30,6 @@ I'm enthusiastic and passionate about what I do
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasiliyMatlab&layout=compact" alt="Vasily" />
-<img src="https://github-readme-stats.vercel.app/api?username=VasiliyMatlab&show_icons=true&count_private=true&theme=solarized-dark&locale=en" alt="Vasiliy" />
 
 
 <!---
